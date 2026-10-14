@@ -1,4 +1,0 @@
-console.log ("My experience at Intramurals 2026 was amazing and memorable. During this event I observed how it showed teamwork, hope, discipline, and excitement among the students. Even though IICT was not the grand overall champion, the important part was that we tried our best and created great memories together. Winning is not always the most important thing because participating, supporting one another, and enjoying the experience also matter.
-
-In addition, my friends and I had fun during the event. We sold many bracelets and pins, which made the experience more enjoyable. We also had the chance to spend time together and make memories that we will remember. After all the activities we went home tired but happy. To end this, Intramurals 2026 was a wonderful experience that taught me the importance of teamwork, friendship, and enjoying every moment.");
-
